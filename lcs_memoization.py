@@ -38,7 +38,7 @@ class LongestCommonSubsequence:
 
 
 def main():
-    a = 'abbbcccabc'
+    a = 'abc'
     b = 'abbbcccabc'
 
     obj = LongestCommonSubsequence(a, b)
